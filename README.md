@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Faymos
+- 👋 Hi, I’m Oluwatosin Oni
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning python...
-- 💞️ I’m looking to collaborate on python, java, android, ios apps
+- 💞️ I’m looking to collaborate on python, DOTNET ,java, android, ios apps, Microsoft Sharepoint,PowerApp and Automate
 - 📫 How to reach me on twitter @Faymos_inc...
 
 <!---
